@@ -10,3 +10,7 @@ Aqui será meu primeiro site
 
 ## Acessando o site
 Para ter acesso a esse site entre em <https://iasminolisena.github.io>
+
+## Autores
+Abaixo alguns links para as minhas redes:
+- (Iasmin Oliveira) [https://www.linkedin.com/in/iasmin-oliveira-e-sena-945882200/]
