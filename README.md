@@ -13,4 +13,4 @@ Para ter acesso a esse site entre em <https://iasminolisena.github.io>
 
 ## Autores
 Abaixo alguns links para as minhas redes:
-- [Iasmin Oliveira] (https://www.linkedin.com/in/iasmin-oliveira-e-sena-945882200/)
+- [LinkedIn](https://www.linkedin.com/in/iasmin-oliveira-e-sena-945882200/)
